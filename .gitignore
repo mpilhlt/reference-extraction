@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Hugo
-public/public
+/docs/public/

@@ -1,0 +1,2 @@
+{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+<script async defer src="{{ "js/menu.js" | relURL }}"></script>

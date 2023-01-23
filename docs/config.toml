@@ -1,0 +1,48 @@
+baseURL = 'https://mpilhlt.github.io/reference-extraction/'
+languageCode = 'en-us'
+title = 'New Approaches for Extracting Heterogeneous Reference Data'
+
+enableGitInfo = true
+timeZone = 'Europe/Berlin'
+
+# theme = 'hugo-flex'
+theme = "mainroad"
+assetDir = "static"
+
+[params]
+footer = 'Except where otherwise noted, content on this site is licensed under a &#32;<a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.'
+schema = true         # Set to true to add Schema.org metadata
+
+[Params.style.vars]
+highlightColor = "#005555" # Override highlight color
+highlightColor2 = "#006c66" # Override highlight color
+highlightColor3 = "#c5d325" # Override highlight color
+
+# Submenu created following <https://codingnconcepts.com/hugo/nested-menu-hugo/>
+[menu]
+[[menu.main]]
+	identifier = "workshop-2023"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Workshop 2023"
+	url = ""
+	weight = 10
+[[menu.main]]
+	identifier = "cfp-2023"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Call for Papers"
+	url = "/workshop-2023/cfp/"
+	weight = 12
+	parent = "workshop-2023"
+[[menu.main]]
+	identifier = "program-2023"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Programme"
+	url = "/workshop-2023/programme/"
+	weight = 14
+	parent = "workshop-2023"
+[[menu.main]]
+	identifier = "literature"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Literature & Links"
+	url = "/literature/"
+	weight = 20
