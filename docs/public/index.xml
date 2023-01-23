@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home - New Approaches to Extracting Heterogeneous Reference Data on New Approaches for Extracting Heterogeneous Reference Data</title>
+    <link>https://mpilhlt.github.io/reference-extraction/</link>
+    <description>Recent content in Home - New Approaches to Extracting Heterogeneous Reference Data on New Approaches for Extracting Heterogeneous Reference Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 15:33:25 +0100</lastBuildDate><atom:link href="https://mpilhlt.github.io/reference-extraction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>https://mpilhlt.github.io/reference-extraction/workshop-2023/cfp/</link>
+      <pubDate>Mon, 23 Jan 2023 15:33:25 +0100</pubDate>
+      
+      <guid>https://mpilhlt.github.io/reference-extraction/workshop-2023/cfp/</guid>
+      <description>Workshop at the Max Planck Institute for Legal History and Legal Theory (mpilhlt), 15/16 May, 2023
+Organized by:
+Christian Boulanger, mpilhlt Frankfurt Robin Haunschild mpgivs-cpt Stuttgart Malte Vogl, mpiwg Berlin Andreas Wagner, mpilhlt Frankfurt in cooperation with:
+Anastasiia Iurshina, Excite/Outcite, University of Stuttgart Clemens Neudecker, SBB Berlin Silvio Peroni, OpenCitations.net Matteo Romanello, EPFL Lausanne Summary Extracting heterogeneous references from texts, in particular from historical documents and humanities or legal scholarship is an unresolved problem.</description>
+    </item>
+    
+    <item>
+      <title>Literature and Weblinks</title>
+      <link>https://mpilhlt.github.io/reference-extraction/literature/</link>
+      <pubDate>Mon, 23 Jan 2023 15:33:25 +0100</pubDate>
+      
+      <guid>https://mpilhlt.github.io/reference-extraction/literature/</guid>
+      <description>Literature Christian Boulanger, and Anastasiia Iurshina (2022): &amp;ldquo;Extracting Bibliographic References from Footnotes with EXcite-Docker&amp;rdquo;, in: Tobias Backes, Anastasiia Iurshina, and Philipp Mayr (eds.): Proceedings of the Workshop on Understanding Literature References in Academic Full Text. CEUR Workshop Proceedings 3220, pp. 26–33. http://ceur-ws.org/Vol-3220/#paper3 Alessia Cioffi, and Silvio Peroni (2022): &amp;ldquo;Structured references from PDF articles: assessing the tools for bibliographic reference extraction and parsing&amp;rdquo;. DOI:10.48550/arXiv.2205.14677 Giovanni Colavizza, and Matteo Romanello (2019): &amp;ldquo;Citation Mining of Humanities Journals.</description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://mpilhlt.github.io/reference-extraction/workshop-2023/programme/</link>
+      <pubDate>Mon, 23 Jan 2023 15:33:25 +0100</pubDate>
+      
+      <guid>https://mpilhlt.github.io/reference-extraction/workshop-2023/programme/</guid>
+      <description>Workshop at the Max Planck Institute for Legal History and Legal Theory (mpilhlt), 15/16 May, 2023
+The programme will be posted here as soon as it is available.</description>
+    </item>
+    
+  </channel>
+</rss>
