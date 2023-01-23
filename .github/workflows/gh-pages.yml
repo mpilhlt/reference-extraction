@@ -25,6 +25,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
+        working-directory: ./docs
         run: hugo --minify
 
       - name: Deploy
