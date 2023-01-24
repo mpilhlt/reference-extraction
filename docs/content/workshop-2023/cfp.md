@@ -8,7 +8,7 @@ Workshop at the [Max Planck Institute for Legal History and Legal Theory (mpilhl
 
 **Organized by:**
 - [Christian Boulanger](https://www.lhlt.mpg.de/boulanger/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
-- [Robin Haunschild](https://www.fkf.mpg.de/person/37778/921030) [mpgivs-cpt Stuttgart](https://www.fkf.mpg.de/ivs)
+- [Robin Haunschild](https://www.fkf.mpg.de/person/37778/921030), [mpgivs-cpt Stuttgart](https://www.fkf.mpg.de/ivs)
 - [Malte Vogl](https://www.mpiwg-berlin.mpg.de/users/mvogl), [mpiwg Berlin](https://www.mpiwg-berlin.mpg.de/)
 - [Andreas Wagner](https://www.lhlt.mpg.de/wagner/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
 

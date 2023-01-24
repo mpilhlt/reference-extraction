@@ -11,7 +11,7 @@ In response to this state of affairs, we want to assemble scholars and practitio
 Our main activity currently is a [workshop](./workshop-2023/cfp) that we will be hosting in May 2023 at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), Frankfurt/Main, Germany. As we progress, more and other materials will be made available via this website (<https://mpilhlt.github.io/reference-extraction/>).
 
 - [Christian Boulanger](https://www.lhlt.mpg.de/boulanger/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
-- [Robin Haunschild](https://www.fkf.mpg.de/person/37778/921030) [mpgivs-cpt Stuttgart](https://www.fkf.mpg.de/ivs)
+- [Robin Haunschild](https://www.fkf.mpg.de/person/37778/921030), [mpgivs-cpt Stuttgart](https://www.fkf.mpg.de/ivs)
 - [Malte Vogl](https://www.mpiwg-berlin.mpg.de/users/mvogl), [mpiwg Berlin](https://www.mpiwg-berlin.mpg.de/)
 - [Andreas Wagner](https://www.lhlt.mpg.de/wagner/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
 
