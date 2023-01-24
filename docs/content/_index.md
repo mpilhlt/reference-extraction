@@ -23,4 +23,4 @@ Our main activity currently is a hybrid [workshop](./workshop-2023/cfp) that we 
 - [Anastasiia Iurshina](https://www.ipvs.uni-stuttgart.de/institute/team/Iurshina/), [Excite/Outcite, University of Stuttgart](https://excite.informatik.uni-stuttgart.de/)
 - [Clemens Neudecker](https://cneud.net/), [SBB Berlin](https://staatsbibliothek-berlin.de/)
 - [Silvio Peroni](https://essepuntato.it), [OpenCitations.net](https://opencitations.net/)
-- [Matteo Romanello](https://mromanello.github.io/), [EPFL Lausanne](https://www.epfl.ch/en/)
+- [Matteo Romanello](https://mromanello.github.io/), [University of Lausanne](https://unil.ch/)
