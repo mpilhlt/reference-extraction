@@ -4,7 +4,7 @@ date: 2023-01-23T15:33:25+01:00
 draft: false
 ---
 
-Workshop at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), 15/16 May, 2023
+Hybrid Workshop at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), 15/16 May, 2023
 
 **Organized by:**
 - [Christian Boulanger](https://www.lhlt.mpg.de/boulanger/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
@@ -48,7 +48,7 @@ Thus, in order to develop suitable tools and workflows, there is a current need 
 
 ## Call for Participation
 
-For the workshop on 15/16 May, 2023, we invite contributions to the following topics/questions:
+For the hybrid workshop on 15/16 May, 2023, we invite contributions to the following topics/questions:
 
 ### Problem/task definition
 - What are use cases and current projects, in which the issue of extracting heterogeneous reference data arises?
@@ -76,7 +76,7 @@ Please also consider contributing if:
 
 As submissions, we expect a short abstract of your presentation which also references previous work in the subject area (papers and code, if applicable). The presentations on the workshop should not exceed 20 minutes each.
 
-While the workshops will be organized in a hybrid format, we hope to be able to meet you in person. Participation is free of charge. Travel and accomodation cannot be reimbursed.
+While the workshop will be organized in a hybrid format, we hope to be able to meet you in person. Participation is free of charge. Travel and accomodation cannot be reimbursed.
 
 Please send your submission to wagner@lhlt.mpg.de. Deadline for submissions is Feb 28th 2023. All submitters will be notified of their status by March 13th 2023.
 

@@ -8,7 +8,11 @@ Extracting heterogeneous references from texts, in particular from historical do
 
 In response to this state of affairs, we want to assemble scholars and practitioners from the social sciences, the humanities and the informational and computational disciplines to establish the state of the art, share resources and approaches and find ways for jointly developing new tools and workflows which are able to unlock previously untapped reference/citation data in the humanities, law and the social sciences.
 
-Our main activity currently is a [workshop](./workshop-2023/cfp) that we will be hosting in May 2023 at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), Frankfurt/Main, Germany. As we progress, more and other materials will be made available via this website (<https://mpilhlt.github.io/reference-extraction/>).
+## Workshop 2023
+
+Our main activity currently is a hybrid [workshop](./workshop-2023/cfp) that we will be hosting in May 2023 at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), Frankfurt/Main, Germany. As we progress, more and other materials will be made available via this website (<https://mpilhlt.github.io/reference-extraction/>).
+
+## Team
 
 - [Christian Boulanger](https://www.lhlt.mpg.de/boulanger/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
 - [Robin Haunschild](https://www.fkf.mpg.de/person/37778/921030), [mpgivs-cpt Stuttgart](https://www.fkf.mpg.de/ivs)
