@@ -2,7 +2,9 @@ baseURL = 'https://mpilhlt.github.io/reference-extraction/'
 languageCode = 'en-us'
 title = 'New Approaches for Extracting Heterogeneous Reference Data'
 
+enableEmoji = true
 enableGitInfo = true
+# enableInlineShortcodes = true
 timeZone = 'Europe/Berlin'
 
 # theme = 'hugo-flex'
@@ -12,11 +14,27 @@ assetDir = "static"
 [params]
 footer = 'Except where otherwise noted, content on this site is licensed under a &#32;<a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.'
 schema = true         # Set to true to add Schema.org metadata
+# customCSS = ["css/style.css"] # Include custom CSS files
 
 [Params.style.vars]
 highlightColor = "#005555" # Override highlight color
 highlightColor2 = "#006c66" # Override highlight color
 highlightColor3 = "#c5d325" # Override highlight color
+
+[Params.logo]
+image = "img/minerva-128.svg" # Logo image. Path relative to "static"
+# title = "Mainroad" # Logo title, otherwise will use site title
+# subtitle = "An Activity of Digital Humanities Scholarship in the Max Planck Society" # Logo subtitle
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "mpilhlt"
+  github = "mpilhlt/reference-extraction"
+
+[[Params.widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://hcommons.social/@anwagnerdreas"
+  icon = "mastodon.svg"
 
 # Submenu created following <https://codingnconcepts.com/hugo/nested-menu-hugo/>
 [menu]

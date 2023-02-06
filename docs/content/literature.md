@@ -2,6 +2,9 @@
 title: "Literature and Weblinks"
 date: 2023-01-23T15:33:25+01:00
 draft: false
+sidebar: "right" # Enable sidebar (on the right side) per page
+widgets: # Enable sidebar widgets in given order per page
+  - "search"
 ---
 
 ## Literature

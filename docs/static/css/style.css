@@ -391,11 +391,17 @@ select {
 }
 
 .logo {
-	padding: 25px;
+	padding: 22px;
 }
 
 .logo__link {
-	display: inline-block;
+	display: inline;
+}
+
+.logo__link:after {
+	content: "";
+	clear: both;
+	display: table;
 }
 
 .logo__item {
@@ -412,7 +418,12 @@ select {
 }
 
 .logo--mixed .logo__item {
-	margin: .5rem auto;
+	/* margin: .5rem auto; */
+}
+
+.logo--mixed .logo__imagebox {
+	float: right;
+	margin-left: 22px;
 }
 
 .logo--mixed .logo__img {
@@ -422,6 +433,7 @@ select {
 
 .logo--mixed .logo__text {
 	padding: 0 1rem;
+	display: inline;
 }
 
 .logo__title {
