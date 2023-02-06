@@ -2,9 +2,9 @@
 title: "Home - New Approaches to Extracting Heterogeneous Reference Data"
 date: 2023-01-23T15:33:25+01:00
 draft: false
-sidebar: "right" # Enable sidebar (on the right side) per page
-widgets: # Enable sidebar widgets in given order per page
-  - "social"
+# sidebar: "right" # Enable sidebar (on the right side) per page
+# widgets: # Enable sidebar widgets in given order per page
+#   - "social"
 ---
 
 Extracting heterogeneous references from texts, in particular from historical documents and humanities or legal scholarship is an unresolved problem. (For a more elaborate problem statement, see the [Call for Papers](./workshop-2023/cfp) for the upcoming workshop.) Yet, there is currently no coordinated effort to develop solutions.
