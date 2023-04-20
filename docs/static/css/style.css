@@ -196,13 +196,17 @@ h6 {
 	font-size: 1rem;
 }
 
-a {
-	color: #000;
+a,
+summary {
+	color: {{ $highlightColor }};
 	text-decoration: none;
+	cursor: pointer;
 }
 
-a:hover {
+a:hover,
+summary:hover {
 	color: {{ $highlightColor }};
+	text-decoration: underline;
 }
 
 hr {

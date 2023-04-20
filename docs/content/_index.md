@@ -13,7 +13,7 @@ In response to this state of affairs, we want to assemble scholars and practitio
 
 ## Workshop 2023
 
-Our main activity currently is a hybrid [workshop](./workshop-2023/cfp) that we will be hosting in May 2023 at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), Frankfurt/Main, Germany. As we progress, more and other materials will be made available via this website (<https://mpilhlt.github.io/reference-extraction/>).
+Our main activity currently is a hybrid workshop (see [programme](./workshop-2023/programme)) that we will be hosting in May 2023 at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), Frankfurt/Main, Germany. As we progress, more and other materials will be made available via this website (<https://mpilhlt.github.io/reference-extraction/>).
 
 ## Team
 

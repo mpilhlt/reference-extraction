@@ -59,6 +59,13 @@ image = "img/minerva-128.svg" # Logo image. Path relative to "static"
 	weight = 14
 	parent = "workshop-2023"
 [[menu.main]]
+	identifier = "register-2023"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Register"
+	url = "/workshop-2023/register/"
+	weight = 14
+	parent = "workshop-2023"
+[[menu.main]]
 	identifier = "literature"
 	pre = "<i class='fa fa-road'></i>"
 	name = "Literature & Links"

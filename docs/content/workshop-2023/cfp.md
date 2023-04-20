@@ -11,6 +11,8 @@ draft: false
 
 Hybrid Workshop at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), 15/16 May, 2023
 
+## ** The Call for Papers is closed. You can see the programme [here](../programme).**
+
 **Organized by:**
 - [Christian Boulanger](https://www.lhlt.mpg.de/boulanger/en), [mpilhlt Frankfurt](https://www.lhlt.mpg.de/en)
 - [Robin Haunschild](https://www.fkf.mpg.de/person/37778/921030), [mpgivs-cpt Stuttgart](https://www.fkf.mpg.de/ivs)
