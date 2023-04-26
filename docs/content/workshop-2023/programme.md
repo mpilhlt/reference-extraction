@@ -394,7 +394,28 @@ Discussion
 
 **14:30-15:50 Presentations 6**
 
-12. **Anastasiia Iurshina/Tobias Backes/Ahsan Shahid/Philipp Mayer (Univ. of Stuttgart): *Outcite: end-to-end reference processing pipeline***
+12. **Olga Pagnotta/Silvio Peroni (University of Bologna): *Measuring the Performances of AnyStyle and Grobid against a Gold Strandard***
+{{< details "Abstract" >}}
+In a prior study (Cioffi & Peroni, 2022), we analysed the available reference extraction tools to understand their performances off-the-shelf – i.e. by using them as they have been configured, without prior training. We evaluated them against a corpus of 56 PDF articles (our gold standard) published in 27 subject areas (Computer Science, Arts and Humanities, Mathematics, etc.). From that analysis, we have identified the two most promising tools for bibliographic reference extraction and parsing, i.e. Anystyle and Grobid, which are CRF based.
+
+We want to extend such a study by training these two tools against the same gold standard used in the previous analysis to understand how much the performances improve. As a result, we are also going to revise the code used for testing and comparing the reference extraction software to make it available also for others to be reused for similar analysis. The final aim of this work would be to develop a reference extraction service which enables a user to provide a PDF of a scholarly article in input and to have, in return, citation data and bibliographic metadata from all the references that are cited by the given article in a format that enables their ingestion in OpenCitations (Peroni & Shotton, 2020).
+
+As a first step, a series of tests have been performed to check if the two software have been recently updated. During the testing phase, some differences emerged comparing the results obtained in the current study to the ones of (Cioffi & Peroni, 2022). With those differences in mind, we are going to modify the evaluation code (Cioffi, 2022) used in the prior study to adapt it to the current version of the tools. Afterwards, we will proceed with the training phase. To train Anystyle, the software documentation makes available a set of instructions for refining the training of the tool against a gold standard (ours, Cioffi, 2022). For what concerns GROBID, a series of instructions are available, too, for training the tool with specific data.
+
+The work is currently ongoing, thus in the presentation we will show the results obtained by mid-May. However, the next steps will consist in the evaluation of the trained versions of Anystyle and Grobid and the creation of a new gold standard, to compare the results of the evaluation and the training phases to the previous version of the standard. The results will be processed in order to integrate the data in the OpenCitations infrastructure.
+
+**References**
+
+- Anystyle, <https://archive.softwareheritage.org/swh:1:snp:92bc79eb31b8e7fd760c985aa62f313ced3976bf;origin=https://github.com/inukshuk/anystyle-cli>.
+- Cioffi, A. (2022). Data for Testing and Evaluating References Extraction and Parsing Tools (1.0). Zenodo. [DOI:10.5281/zenodo.6182066](https://doi.org/10.5281/zenodo.6182066).
+- Cioffi, A. (2022). Code for converting different formats to TEI XML and evaluating results (1.0). Zenodo. [DOI:10.5281/zenodo.6182128](https://doi.org/10.5281/zenodo.6182128).
+- Cioffi, A., & Peroni, S. (2022). Structured References from PDF Articles: Assessing the Tools for Bibliographic Reference Extraction and Parsing. In G. Silvello, O. Corcho, P. Manghi, G. M. Di Nunzio, K. Golub, N. Ferro, & A. Poggi (A c. Di), Linking Theory and Practice of Digital Libraries—26th International Conference on Theory and Practice of Digital Libraries, TPDL 2022, Padua, Italy, September 20–23, 2022, Proceedings (Vol. 13541, pp. 425–432). Springer International Publishing. [DOI:10.1007/978-3-031-16802-4_42](https://doi.org/10.1007/978-3-031-16802-4_42).
+- Grobid, <https://archive.softwareheritage.org/swh:1:snp:4f734b61d425809bfd1f1d8d7b8b160edf81ef2b;origin=https://github.com/kermitt2/grobid_client_python>.
+- Peroni, S., & Shotton, D. (2020). OpenCitations, an infrastructure organization for open scholarship. Quantitative Science Studies, 1(1), 428–444. [DOI:10.1162/qss_a_00023](https://doi.org/10.1162/qss_a_00023).
+
+{{< /details >}}
+
+13. **Anastasiia Iurshina/Tobias Backes/Ahsan Shahid/Philipp Mayer (Univ. of Stuttgart): *Outcite: end-to-end reference processing pipeline***
 {{< details "Abstract" >}}
 Facilitating access to bibliographic data for both researchers and the general public is crucial across all disciplines. To this end, numerous publishers utilize bibliographic databases to index their publications. However, in certain fields like social science, a notable portion of citation data remains beyond the reach of such databases. Our prior project, Excite \[7\], was specifically designed to address this issue and has proven successful in bridging the gap between the availability of citation data in social science and other domains. Through Excite, we have developed and implemented tools that enable the extraction, and segmentation of reference strings from PDF documents, which are then cross-referenced against bibliographic databases.
 
@@ -417,26 +438,6 @@ In addition to that we will present a quantitative analysis of how different com
 
 {{< /details >}}
 
-13. **Olga Pagnotta/Silvio Peroni (University of Bologna): *Measuring the Performances of AnyStyle and Grobid against a Gold Strandard***
-{{< details "Abstract" >}}
-In a prior study (Cioffi & Peroni, 2022), we analysed the available reference extraction tools to understand their performances off-the-shelf – i.e. by using them as they have been configured, without prior training. We evaluated them against a corpus of 56 PDF articles (our gold standard) published in 27 subject areas (Computer Science, Arts and Humanities, Mathematics, etc.). From that analysis, we have identified the two most promising tools for bibliographic reference extraction and parsing, i.e. Anystyle and Grobid, which are CRF based.
-
-We want to extend such a study by training these two tools against the same gold standard used in the previous analysis to understand how much the performances improve. As a result, we are also going to revise the code used for testing and comparing the reference extraction software to make it available also for others to be reused for similar analysis. The final aim of this work would be to develop a reference extraction service which enables a user to provide a PDF of a scholarly article in input and to have, in return, citation data and bibliographic metadata from all the references that are cited by the given article in a format that enables their ingestion in OpenCitations (Peroni & Shotton, 2020).
-
-As a first step, a series of tests have been performed to check if the two software have been recently updated. During the testing phase, some differences emerged comparing the results obtained in the current study to the ones of (Cioffi & Peroni, 2022). With those differences in mind, we are going to modify the evaluation code (Cioffi, 2022) used in the prior study to adapt it to the current version of the tools. Afterwards, we will proceed with the training phase. To train Anystyle, the software documentation makes available a set of instructions for refining the training of the tool against a gold standard (ours, Cioffi, 2022). For what concerns GROBID, a series of instructions are available, too, for training the tool with specific data.
-
-The work is currently ongoing, thus in the presentation we will show the results obtained by mid-May. However, the next steps will consist in the evaluation of the trained versions of Anystyle and Grobid and the creation of a new gold standard, to compare the results of the evaluation and the training phases to the previous version of the standard. The results will be processed in order to integrate the data in the OpenCitations infrastructure.
-
-**References**
-
-- Anystyle, <https://archive.softwareheritage.org/swh:1:snp:92bc79eb31b8e7fd760c985aa62f313ced3976bf;origin=https://github.com/inukshuk/anystyle-cli>.
-- Cioffi, A. (2022). Data for Testing and Evaluating References Extraction and Parsing Tools (1.0). Zenodo. [DOI:10.5281/zenodo.6182066](https://doi.org/10.5281/zenodo.6182066).
-- Cioffi, A. (2022). Code for converting different formats to TEI XML and evaluating results (1.0). Zenodo. [DOI:10.5281/zenodo.6182128](https://doi.org/10.5281/zenodo.6182128).
-- Cioffi, A., & Peroni, S. (2022). Structured References from PDF Articles: Assessing the Tools for Bibliographic Reference Extraction and Parsing. In G. Silvello, O. Corcho, P. Manghi, G. M. Di Nunzio, K. Golub, N. Ferro, & A. Poggi (A c. Di), Linking Theory and Practice of Digital Libraries—26th International Conference on Theory and Practice of Digital Libraries, TPDL 2022, Padua, Italy, September 20–23, 2022, Proceedings (Vol. 13541, pp. 425–432). Springer International Publishing. [DOI:10.1007/978-3-031-16802-4_42](https://doi.org/10.1007/978-3-031-16802-4_42).
-- Grobid, <https://archive.softwareheritage.org/swh:1:snp:4f734b61d425809bfd1f1d8d7b8b160edf81ef2b;origin=https://github.com/kermitt2/grobid_client_python>.
-- Peroni, S., & Shotton, D. (2020). OpenCitations, an infrastructure organization for open scholarship. Quantitative Science Studies, 1(1), 428–444. [DOI:10.1162/qss_a_00023](https://doi.org/10.1162/qss_a_00023).
-
-{{< /details >}}
 
 Discussion
 
