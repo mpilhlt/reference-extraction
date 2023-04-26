@@ -277,7 +277,7 @@ Discussion
 
 **10:00-11:20 Presentations 4**
 
-8. **Diego de la Hera/Dominic Dall’Osto (Wikimedistas Argentina/Univ. of Zurich): *Using _Cita_ to support reference extraction workflows from Zotero***
+8. **Diego de la Hera/Dominic Dall’Osto (Wikimedistas Calamuchita/Univ. of Zurich): *Using _Cita_ to support reference extraction workflows from Zotero***
 {{< details "Abstract" >}}
 Citation data are crucial to understanding the evolution of knowledge in any research field. Collated citation databases have recently become more available and grown in scale, thanks to efforts promoting their public release \[1\], and digitization and reference extraction initiatives \[2\]. These databases are increasingly valuable for research into automated citation recommendation systems \[3\], and as a component for building general scientific knowledge storage and retrieval systems \[4\]. However, although some services exist that make these data easily accessible for querying and extracting knowledge (e.g., Scholia \[5\]), citation data are surprisingly not supported in any of the most widely used reference management software.
 
