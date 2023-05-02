@@ -394,7 +394,7 @@ Discussion
 
 **14:30-15:50 Presentations 6**
 
-12. **Olga Pagnotta/Silvio Peroni (University of Bologna): *Measuring the Performances of AnyStyle and Grobid against a Gold Strandard***
+12. **Olga Pagnotta/Silvio Peroni (University of Bologna): *Measuring the Performances of AnyStyle and Grobid against a Gold Standard***
 {{< details "Abstract" >}}
 In a prior study (Cioffi & Peroni, 2022), we analysed the available reference extraction tools to understand their performances off-the-shelf – i.e. by using them as they have been configured, without prior training. We evaluated them against a corpus of 56 PDF articles (our gold standard) published in 27 subject areas (Computer Science, Arts and Humanities, Mathematics, etc.). From that analysis, we have identified the two most promising tools for bibliographic reference extraction and parsing, i.e. Anystyle and Grobid, which are CRF based.
 
