@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+... conuocationem (vnde ecclesia nomen accepit) aliquid distet, quòd scilicet congregari &amp; pecora solent,
+ac ipsa propriè, quorum &amp; greges propriè dicimus. Cõuocari est magis vtentium ratione, vt sunt homines.
+Idem <bibl sortKey="Isidorus_Etym"><author><persName ref="gnd:118555995" key="Isidorus">Isidorus</persName></author> <biblScope>lib. 8.</biblScope>
+<title>Etymolo.</title> <biblScope>c. 8.</biblScope></bibl> vt notetur scilicet irrationalitas Iud<g ref="#char00e6">ae</g>orum.
+Quamuis autem ecclesia, si rationem nominis aspicias, pro quacunque hominum congregatione accipi possit: ...
+<!-- Isidor of Sevilla, Etymologies, book 8, chapter 8. -->
+        </p>
+        <p>
+... censeri intra ecclesiam. Hæresis sanè electionem, aut sectam, vel diuisionem signare videtur, vt
+<bibl sortKey="Isidorus_Etym"><author><persName ref="gnd:118555995" key="Isidorus">Isidorus</persName></author> dicit
+<title>lib. Etym.</title></bibl> ergo hæretici ideo videntur dicti, quòd ab ecclesia diuisi, &amp; secti sunt.
+Item <bibl sortKey="Mt_18">Matth. 18.</bibl><note place="margin"><bibl sortKey="Mt_18">Matth. 18.</bibl></note>
+dictũ est Petro, quòd qui ecclesiam nõ audierit, sit quasi ethnicus, &amp; publicanus. ...
+<!-- Isidor of Sevilla, Etymologies ; Bible: Mt 18 -->
+        </p>
+        <p>
+... administraciõ / cometio delito: porque no se tenia de ausentar / fasta ser dada la cuentas. y por
+razon del delito / el mas principal juez / es aquel donde se comete.<note anchored="true" place="margin">
+    ¶ Tenet. <bibl sortKey="Cod-6-33-3"><author><persName ref="gnd:118803085" key="Baldus">bal.</persName></author>
+    <biblScope>in. I. fi. vj. quaestione</biblScope>. <title>C. de edic. di. adri. tollen</title></bibl>.</note>
+Y como ante juez mas principal se tiene de haz ...
+<!-- Baldus Commentary on Accursius' Gloss on Justinian's Codex 6.33.3 -->
+        </p>
+        <p>
+... affirmatiua arguitur, quia quilibet talis actus
+est meritorius gloriæ, ergo &amp; gratiæ, &amp; per cõsequens charitatis. Assumptũ patet, quia actus
+bonus relatus in Deum, est bonus, &amp; meritorius, ut latè tractat
+<bibl sortKey="Thomas_SThI-II"><persName ref="gnd:118622110" key="Thomas Aquinas">S. Tho.</persName>
+<biblScope>1. 2.</biblScope></bibl> Consequentia patet, quia gloria correspondet gratiæ &amp; charitati:
+ergo si pro tali actu datur maior gloria, ergo maior gratia, &amp; charitas.
+<!-- Thomas Aquinas Summa Theologiae, Prima Secunda Pars -->
+        </p>
+        <p>
+... ¶ De quæstione hac est triplex opinio. Prima tenet alterum extremum, quòd, scilicet, quolibet actu charitatis
+quantumcunque remisso augetur charitas &amp; gratia. Ista est communis opinio recentiorum, eorũ scilicet qui nominales
+uocantur, ut est uidere apud <bibl sortKey="GabrielBiel_InSent">
+<persName ref="gnd:118510703" key="Biel, Gabriel">Gabrie.</persName> <biblScope>in primo dist. 17. quæst. 4.</biblScope></bibl>
+&amp; <bibl sortKey="GabrielBiel_InSent"><biblScope>in 2. dist. 23. quæst. 1.</biblScope></bibl> &amp; in eisdem locis apud alios Doctores.
+<!-- Biel's Commentary on Peter Lombard's Book of Sentences, distinctions 1 and 2 -->
+        </p>
+      </body>
+   </text>
+</TEI>
