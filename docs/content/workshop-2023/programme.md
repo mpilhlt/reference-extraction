@@ -6,6 +6,8 @@ draft: false
 
 Hybrid Workshop at the [Max Planck Institute for Legal History and Legal Theory (mpilhlt)](https://www.lhlt.mpg.de/en/), 15/16 May, 2023
 
+The video recordings are available [at TIB AV-Portal](https://av.tib.eu/series/1812).
+
 All times are Frankfurt time, that is CEST (UTC/GMT +2 hours)
 
 ### Monday 15 May 2023
@@ -16,6 +18,7 @@ All times are Frankfurt time, that is CEST (UTC/GMT +2 hours)
 
 1. **Aleksandra Kaye/Bernardo S. Buarque/Malte Vogl/Raphael Schlattmann (ModelSEN project, MPI for History of Science): *Socio-epistemic networks of Polish migrants in Latin America – a challenge for heterogeneous reference extraction***
 {{< details "Abstract" >}}
+Recording: <https://doi.org/10.5446/68323>
 
 **Proposal and Context**
 
@@ -61,6 +64,7 @@ These data preparation tasks should in theory increase the accuracy of the autom
 
 2. **Raphael Schlattmann/Malte Vogl/Aleksandra Kaye/Bernardo S. Buarque (ModelSEN project, MPI for History of Science): *Automated construction of historical semiotic networks – Can person-names within textual contexts be mapped to structured references?***
 {{< details "Abstract" >}}
+Recording: <https://doi.org/10.5446/68324>
 
 **Proposal and Context**
 
@@ -116,6 +120,8 @@ Discussion
 
 3. **Johannes Riedl (University Library Tübingen): *A Description of the Work in Progress of the Transformation of the _Handbuch der Keilschriftenliteratur_***
 {{< details "Abstract" >}}
+Recording: <https://doi.org/10.5446/68325>
+
 The University Library of Tübingen has been faced with an increasing number of requests from different faculties to transform relevant scientific achievements from the past - like type- and sometimes even partially handwritten bibliographies, registers and dictionaries - to a form that lends itself to the import into a database based retrieval system.
 
 In a considerable number of cases such works comprise the lifework of an individual person and partly have been an indispensable tool for generations of scientists, but despite their relevancy still only exist in a limited quality printed form, since smaller subjects lack the resources to provide a structured digital edition. Since these works are often both highly idiosyncratic in their structure (i.e. they follow individual rules for the formation of the information given), contain a plethora of abbreviations, have a high entropy (i.e. nearly every token is relevant) but have in many cases never been written with the intent of providing the unambiguous syntactical structure needed for computer processing, they pose a considerable challenge for the transformation process. Moreover, the text scope is normally too large to allow economic manual transformation, but nonetheless small in terms of the currently needed amount of data necessary to train an individual model. This, accompanied by the fact that the institution only has restricted resources for these kind of projects, leads to the question, whether and how generally accessible methods can be used to achieve feasible results.
@@ -279,6 +285,8 @@ Discussion
 
 8. **Diego de la Hera/Dominic Dall’Osto (Wikimedistas Calamuchita/Univ. of Zurich): *Using _Cita_ to support reference extraction workflows from Zotero***
 {{< details "Abstract" >}}
+Recording: <https://doi.org/10.5446/68326>
+
 Citation data are crucial to understanding the evolution of knowledge in any research field. Collated citation databases have recently become more available and grown in scale, thanks to efforts promoting their public release \[1\], and digitization and reference extraction initiatives \[2\]. These databases are increasingly valuable for research into automated citation recommendation systems \[3\], and as a component for building general scientific knowledge storage and retrieval systems \[4\]. However, although some services exist that make these data easily accessible for querying and extracting knowledge (e.g., Scholia \[5\]), citation data are surprisingly not supported in any of the most widely used reference management software.
 
 Since 2020 we have been developing *Cita* \[6\], a plugin that adds citation graph support to Zotero, the most popular open-source reference management software \[7\]. Cita allows adding individual references (i.e., outgoing citations) as metadata to items in Zotero libraries. These can be added manually, or imported from Wikidata, an open collaborative knowledge base that has become an important part of the bibliographic repository ecosystem \[8\]. Importing from other sources is supported as well via standard list of reference files, including the output from reference extraction engines. In addition, Cita supports publishing reference metadata to a variety of datasets and formats, including back to Wikidata. Finally, it supports matching references to items already in Zotero, and shows a local citation network graph that allows users better understand how works in their libraries connect to one another, and discover other relevant works.
@@ -326,6 +334,8 @@ Discussion
 
 10. **Christian Boulanger (mpilhlt): *Order from Chaos: Potential and Limits of CRF-based Reference Extraction from Footnotes***
 {{< details "Abstract" >}}
+Recording: <https://doi.org/10.5446/68327>
+
 Citations are a central component of a knowledge graph that maps the history of knowledge production in a scientific field. However, for many academic domains, particularly those where the language is not English, citation data either does not exist or is fragmentary. In these domains, citations have to be extracted from the source material. For literature that provides the cited references in well-organized, consistently styled bibliographies, technologies exist that have sufficient performance to produce the needed data \[1\]. However, in the Humanities and parts of the Social Sciences, this is not the case: whereas humans have no problem understanding what is being referenced, from a computational perspective, the reference data is inconsistent, fragmentary, and buried in a lot of noise \[2\]. This area of reference extraction is understudied \[3\].
 
 I present an end-to-end framework for citation extraction from PDF documents that addresses this problem. The framework includes a [web application](https://github.com/cboulanger/citext) for annotating documents and training a model to semi-automate annotations, and a [CLI](https://github.com/cboulanger/anystyle-workflow) which uses the trained model to for the extraction of references from PDFs and validates and enriches the extracted data from various sources such as the Web of Science or OpenAlex. The extraction workflow relies the AnyStyle extraction engine, which is based on a conventional CRF-Model \[4\]. GROBID is additionally used to extract affiliation data from the documents \[5\].(1) 
@@ -355,6 +365,8 @@ The limits of “old-style” CRF models are obvious: No amount of training data
 
 11. **Andreas Wagner (mpilhlt): *Obtaining Training Data - Different Tasks, Different Options***
 {{< details "Abstract" >}}
+Recording: <https://doi.org/10.5446/68328>
+
 When scholars want to make use of the best mechanisms for reference extraction, this endeavour invariably involves training the available tools for their particular dataset (and, eventually, for the particular task of reference extraction, too). Unfortunately, training routines, and - even more cumbersome - data formats to use for such routines differ considerably between the most promising tools. In order to provide some orientation for both scholars planning a reference extraction project, and those considering offering some data they are in possession of as training data, this presentation will discuss (a) the most important data formats and (b) data preparation workflows for such training data. In the former part, besides the data formats themselves, some conversion mechanisms are mentioned. In the latter part, various tooling options for the manual or semi-manual tagging of references in source texts will be presented briefly.
 
 **Data Formats**
