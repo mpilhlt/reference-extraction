@@ -66,6 +66,33 @@ image = "img/minerva-128.svg" # Logo image. Path relative to "static"
 	weight = 14
 	parent = "workshop-2023"
 [[menu.main]]
+	identifier = "workshop-2025"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Workshop 2025"
+	url = ""
+	weight = 15
+[[menu.main]]
+	identifier = "cfp-2025"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Call for Papers"
+	url = "/workshop-2025/cfp/"
+	weight = 16
+	parent = "workshop-2025"
+[[menu.main]]
+	identifier = "program-2025"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Programme"
+	url = "/workshop-2025/programme/"
+	weight = 17
+	parent = "workshop-2025"
+[[menu.main]]
+	identifier = "register-2025"
+	pre = "<i class='fa fa-road'></i>"
+	name = "Register"
+	url = "/workshop-2025/register/"
+	weight = 18
+	parent = "workshop-2025"
+[[menu.main]]
 	identifier = "literature"
 	pre = "<i class='fa fa-road'></i>"
 	name = "Literature & Links"
