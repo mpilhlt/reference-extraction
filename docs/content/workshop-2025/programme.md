@@ -23,7 +23,7 @@ All times are Frankfurt time, that is CET (UTC/GMT +1 hour)
 
 10:00-12:30 
 
-1. **In-depth Research Impact Summarization through Fine-Grained Temporal Citation Analysis** <br>Hiba Arnaout (TU Darmstadt)
+1. **In-depth Research Impact Summarization through Fine-Grained Temporal Citation Analysis**<br>Hiba Arnaout (TU Darmstadt)
 
 2. **Benchmarking Large Language Models on Reference Extraction and Parsing in the Social Sciences and Humanities** <br> Yurui Zhu (Odoma), Matteo Romanello (Odoma)
 
@@ -48,7 +48,9 @@ All times are Frankfurt time, that is CET (UTC/GMT +1 hour)
 15:30-16:00 **Coffee Break**
 
 ### Tools, Workflows and Pipelines
+
 16:00-17:30 
+
 9. **LLM-Based Knowledge Graph Extraction Pipeline**<br>Raphael Schlattmann (TU Berlin), Malte Vogl (mpigea), Aleksandra Kaye (mpigea)
 
 10. **Training the Grobid Reference Extraction Models**<br>Luca Foppiano (ScienciaLAB)
@@ -59,4 +61,4 @@ All times are Frankfurt time, that is CET (UTC/GMT +1 hour)
 
 19:00 **Dinner (self-paid)**
 
-Restaurant Zur Stalburg, Glauburgstraße 80, 60318 Frankfurt am Main
+Restaurant [Zur Stalburg](https://stalburg-frankfurt.de/), Glauburgstraße 80, 60318 Frankfurt am Main
