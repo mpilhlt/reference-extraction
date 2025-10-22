@@ -28,19 +28,11 @@ The workshop brings together scholars and practitioners from the social sciences
 
 ## Workshop Structure
 
-The 2025 workshop is organized into four thematic sessions:
+The 2025 workshop is organized into three thematic sessions:
 
-### I. Onboarding
-Recap of RefExtract2023 and state of current discussions
-
-### II. Research
-Presentations on cutting-edge research in citation analysis, benchmarking LLMs for reference extraction, and the evolution of scientific ideas
-
-### III. Datasets, Infrastructure and Interoperability
-Focus on citation extraction pipelines, datasets, open citation data, and interoperability challenges including an open roundtable discussion on data models and formats
-
-### IV. Tools, Workflows and Pipelines
-Presentations on LLM-based knowledge graph extraction, training Grobid models, and annotation tools for machine learning
+1. Research presentations
+2. Datasets, Infrastructure and Interoperability
+3. Tools, Workflows and Pipelines
 
 ## Registration
 
